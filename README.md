@@ -2,4 +2,4 @@
 
 Data for P05
 
-*Algorithm used: Radix Sort
+> Algorithm used: Radix Sort
